@@ -1,5 +1,5 @@
 ---
-title: EALC102 Chinese Caligraphy 
+title: EALC102 Chinese Caligraphy 中國書法
 date: 2018-01-08 22:46:49
 photos:
 - /assets/caligraphy/chinese-caligraphy-title-2.png
