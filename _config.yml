@@ -123,7 +123,7 @@ menu:
   #tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
-  resume: /resume/
+  resume: /assets/pdf/resume.pdf
 
 # Enable/Disable menu icons.
 # Icon Mapping:
