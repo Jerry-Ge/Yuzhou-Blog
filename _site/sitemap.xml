@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/2013/12/26/images/</loc>
+<lastmod>2013-12-26T14:46:49-08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/tutorial/2017/07/20/next-tutorial/</loc>
 <lastmod>2017-07-20T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2018/01/08/chinese-caligraphy/</loc>
+<lastmod>2018-01-08T14:46:49-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/tag/</loc>
@@ -39,10 +47,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/404.html</loc>
-<lastmod>2018-01-10T16:24:25-08:00</lastmod>
+<lastmod>2018-01-10T19:58:21-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/pdf/resume.pdf</loc>
-<lastmod>2018-01-10T17:51:19-08:00</lastmod>
+<lastmod>2018-01-10T19:58:22-08:00</lastmod>
 </url>
 </urlset>
