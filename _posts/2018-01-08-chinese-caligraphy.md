@@ -3,6 +3,8 @@ title: EALC102 Chinese Caligraphy
 date: 2018-01-08 22:46:49
 photos:
 - /assets/caligraphy/chinese-caligraphy-title-2.png
+categories:
+- art
 ---
 
 Here are my in-class practices in Chinese caligraphy class (EALC102).
