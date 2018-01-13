@@ -4,7 +4,7 @@ title: Music Video by Yuzhou Media -- The Blue Dream 藍天的夢想
 date: 2018-01-11 15:45:19
 category: music
 photos:
-- /assets/images/thebluedream/2.jpg
+- /assets/images/thebluedream/thumb.jpg
 
 tags:
 - Yuzhou-Media
