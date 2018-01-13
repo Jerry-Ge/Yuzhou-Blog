@@ -12,13 +12,21 @@ tags:
 - Student
 
 description: Produced by Yuzhou-Media in 2015. All songs sung by classmates from Nantong No.1 High School, Jiangsu, China.
----
-
   
-
 ---
 
 <!-- more -->
+### Singers
+<center>
+
+- Yuzhou Ge 葛宇周 <br>
+- Yuxuan Chen 陳宇軒 <br>
+- Chuyuan Feng 馮楚媛 <br>
+- Sayu Chen 陳颯羽 <br>
+- Gang Yang 陽鋼 <br>
+- Haoran Shi 施浩然 <br>
+</center>
+
 
 ### Welcome to play the list!
 
