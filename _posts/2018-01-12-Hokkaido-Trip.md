@@ -46,7 +46,7 @@ Visit the port city Otaru, take the cable car to the top of Tengu Mountain(å¤©ç‹
 
 ![](/assets/images/hokkaido/IMG_1845.JPG)
 
-![](/assets/images/hokkaido/tengu.JPG)
+![](/assets/images/hokkaido/tengu.jpg)
 
 Otaru Canal
 ![](/assets/images/hokkaido/otaru-34.jpg)
