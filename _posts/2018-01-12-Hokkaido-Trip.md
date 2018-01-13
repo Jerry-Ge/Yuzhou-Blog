@@ -21,7 +21,7 @@ description: Winter 2017 Hokkaido, Japan Trip
 ---
 
 ### [Itinerary] 行程
-LA &nbsp; --> &nbsp; Jozankei &nbsp; --> &nbsp; Otaru &nbsp; --> &nbsp; Sapporo &nbsp; --> &nbsp; Hoshino Sking Resort &nbsp; --> &nbsp; Sapporo &nbsp; --> &nbsp; Shanghai---> &nbsp;LA
+LA &nbsp; --> &nbsp; Jozankei &nbsp; --> &nbsp; Otaru &nbsp; --> &nbsp; Sapporo &nbsp; --> &nbsp; Hoshino Sking Resort &nbsp; --> &nbsp; Sapporo &nbsp; --> &nbsp; Shanghai &nbsp; ---> &nbsp;LA
 
 ---
 <!-- more -->
