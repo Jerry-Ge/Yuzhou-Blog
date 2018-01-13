@@ -76,10 +76,10 @@ Nothing else! Great view, ice village, delicious food, and snowboarding!!
 ### [Day-Seven] Home!! 回家啦~
 
 ---
+### More 更多
 
-For detailed trip plan or any kind of questions, welcome to contact me at yuzhou@yuzhoulab.com ! :satisfied:
+For detailed trip plan or any kind of questions,
+please contact me at yuzhou@yuzhoulab.com! 
 
-
-Love & Peace! :heart::heart::heart:
-
-
+---
+### Love & Peace !!!

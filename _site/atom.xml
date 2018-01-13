@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-12T20:09:10-08:00</updated><id>http://localhost:4000/</id><title type="html">YUZHOU-LAB</title><subtitle>University of Southern California</subtitle><author><name>Yuzhou Ge (葛宇周)</name></author><entry><title type="html">EALC102 Chinese Caligraphy 中國書法</title><link href="http://localhost:4000/art/2018/01/08/chinese-caligraphy/" rel="alternate" type="text/html" title="EALC102 Chinese Caligraphy 中國書法" /><published>2018-01-08T14:46:49-08:00</published><updated>2018-01-08T14:46:49-08:00</updated><id>http://localhost:4000/art/2018/01/08/chinese-caligraphy</id><content type="html" xml:base="http://localhost:4000/art/2018/01/08/chinese-caligraphy/">&lt;p&gt;Here are my in-class practices in Chinese caligraphy class (EALC102).&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-12T20:27:54-08:00</updated><id>http://localhost:4000/</id><title type="html">YUZHOU-LAB</title><subtitle>University of Southern California</subtitle><author><name>Yuzhou Ge (葛宇周)</name></author><entry><title type="html">EALC102 Chinese Caligraphy 中國書法</title><link href="http://localhost:4000/art/2018/01/08/chinese-caligraphy/" rel="alternate" type="text/html" title="EALC102 Chinese Caligraphy 中國書法" /><published>2018-01-08T14:46:49-08:00</published><updated>2018-01-08T14:46:49-08:00</updated><id>http://localhost:4000/art/2018/01/08/chinese-caligraphy</id><content type="html" xml:base="http://localhost:4000/art/2018/01/08/chinese-caligraphy/">&lt;p&gt;Here are my in-class practices in Chinese caligraphy class (EALC102).&lt;/p&gt;
 
 &lt;h2 id=&quot;class-one-basic-stroke&quot;&gt;Class One: Basic Stroke&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -33,7 +33,7 @@ Visit the port city Otaru, take the cable car to the top of Tengu Mountain(天�
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/hokkaido/IMG_1845.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/hokkaido/tengu.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/hokkaido/tengu.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Otaru Canal
 &lt;img src=&quot;/assets/images/hokkaido/otaru-34.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -63,10 +63,13 @@ Nothing else! Great view, ice village, delicious food, and snowboarding!!&lt;/p&
 &lt;h3 id=&quot;day-seven-home-回家啦&quot;&gt;[Day-Seven] Home!! 回家啦~&lt;/h3&gt;
 
 &lt;hr /&gt;
+&lt;h3 id=&quot;more-更多&quot;&gt;More 更多&lt;/h3&gt;
 
-&lt;p&gt;For detailed trip plan or any kind of questions, welcome to contact me at yuzhou@yuzhoulab.com ! :satisfied:&lt;/p&gt;
+&lt;p&gt;For detailed trip plan or any kind of questions,
+please contact me at yuzhou@yuzhoulab.com!&lt;/p&gt;
 
-&lt;p&gt;Love &amp;amp; Peace! :heart::heart::heart:&lt;/p&gt;</content><author><name>Yuzhou Ge (葛宇周)</name></author><category term="travel" /><category term="Hokkaido" /><category term="Japan" /><category term="Travel" /><category term="Hoshino" /><category term="Otaru" /><category term="Jozankei Onsen" /><summary type="html"></summary></entry><entry><title type="html">Next Theme Tutorial</title><link href="http://localhost:4000/tutorial/2017/07/20/next-tutorial/" rel="alternate" type="text/html" title="Next Theme Tutorial" /><published>2017-07-20T00:00:00-07:00</published><updated>2017-07-20T00:00:00-07:00</updated><id>http://localhost:4000/tutorial/2017/07/20/next-tutorial</id><content type="html" xml:base="http://localhost:4000/tutorial/2017/07/20/next-tutorial/">&lt;blockquote&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;love--peace-&quot;&gt;Love &amp;amp; Peace !!!&lt;/h3&gt;</content><author><name>Yuzhou Ge (葛宇周)</name></author><category term="travel" /><category term="Hokkaido" /><category term="Japan" /><category term="Travel" /><category term="Hoshino" /><category term="Otaru" /><category term="Jozankei Onsen" /><summary type="html"></summary></entry><entry><title type="html">Next Theme Tutorial</title><link href="http://localhost:4000/tutorial/2017/07/20/next-tutorial/" rel="alternate" type="text/html" title="Next Theme Tutorial" /><published>2017-07-20T00:00:00-07:00</published><updated>2017-07-20T00:00:00-07:00</updated><id>http://localhost:4000/tutorial/2017/07/20/next-tutorial</id><content type="html" xml:base="http://localhost:4000/tutorial/2017/07/20/next-tutorial/">&lt;blockquote&gt;
   &lt;p&gt;NexT is a high quality elegant &lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme ported from &lt;a href=&quot;https://github.com/iissnan/hexo-theme-next&quot;&gt;Hexo Next&lt;/a&gt;. It is crafted from scratch, with love.&lt;/p&gt;
 &lt;/blockquote&gt;
 
