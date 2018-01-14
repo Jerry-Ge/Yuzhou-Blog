@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-13T14:31:12-08:00</updated><id>http://localhost:4000/</id><title type="html">YUZHOU-LAB</title><subtitle>University of Southern California</subtitle><author><name>Yuzhou Ge (葛宇周)</name></author><entry><title type="html">Welcome to Yuzhou-Lab! 歡迎！</title><link href="http://localhost:4000/welcome/2018/01/13/AboutMe/" rel="alternate" type="text/html" title="Welcome to Yuzhou-Lab! 歡迎！" /><published>2018-01-13T00:45:20-08:00</published><updated>2018-01-13T00:45:20-08:00</updated><id>http://localhost:4000/welcome/2018/01/13/AboutMe</id><content type="html" xml:base="http://localhost:4000/welcome/2018/01/13/AboutMe/">&lt;!-- more --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-14T10:26:19-08:00</updated><id>http://localhost:4000/</id><title type="html">YUZHOU-LAB</title><subtitle>University of Southern California</subtitle><author><name>Yuzhou Ge (葛宇周)</name></author><entry><title type="html">Welcome to Yuzhou-Lab! 歡迎！</title><link href="http://localhost:4000/welcome/2018/01/14/AboutMe/" rel="alternate" type="text/html" title="Welcome to Yuzhou-Lab! 歡迎！" /><published>2018-01-14T00:45:22-08:00</published><updated>2018-01-14T00:45:22-08:00</updated><id>http://localhost:4000/welcome/2018/01/14/AboutMe</id><content type="html" xml:base="http://localhost:4000/welcome/2018/01/14/AboutMe/">&lt;!-- more --&gt;
 
 &lt;h3 id=&quot;day-one-jozankei-onsen-定山溪温泉&quot;&gt;[Day-One] Jozankei Onsen 定山溪温泉&lt;/h3&gt;
 &lt;p&gt;&lt;br /&gt;
@@ -15,7 +15,29 @@ A very small town near Sapporo. It takes about an hour to get here from Chitose 
 please contact me at yuzhou@yuzhoulab.com!&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;h3 id=&quot;love--peace-&quot;&gt;Love &amp;amp; Peace !!!&lt;/h3&gt;</content><author><name>Yuzhou Ge (葛宇周)</name></author><category term="welcome" /><category term="welcome" /><summary type="html"></summary></entry><entry><title type="html">Math408 Statistics Lecture Notes</title><link href="http://localhost:4000/notes/2018/01/12/MATH-408/" rel="alternate" type="text/html" title="Math408 Statistics Lecture Notes" /><published>2018-01-12T07:45:20-08:00</published><updated>2018-01-12T07:45:20-08:00</updated><id>http://localhost:4000/notes/2018/01/12/MATH-408</id><content type="html" xml:base="http://localhost:4000/notes/2018/01/12/MATH-408/">&lt;hr /&gt;
+&lt;h3 id=&quot;love--peace-&quot;&gt;Love &amp;amp; Peace !!!&lt;/h3&gt;</content><author><name>Yuzhou Ge (葛宇周)</name></author><category term="welcome" /><category term="welcome" /><summary type="html"></summary></entry><entry><title type="html">Common Taylor Series Expansions</title><link href="http://localhost:4000/math-reference/2018/01/14/Common-Taylor-Series/" rel="alternate" type="text/html" title="Common Taylor Series Expansions" /><published>2018-01-14T00:45:21-08:00</published><updated>2018-01-14T00:45:21-08:00</updated><id>http://localhost:4000/math-reference/2018/01/14/Common-Taylor-Series</id><content type="html" xml:base="http://localhost:4000/math-reference/2018/01/14/Common-Taylor-Series/">&lt;blockquote&gt;
+  &lt;p&gt;Taylor series is quite important no matter in math, or enginerring, here just few common taylor series expansions we will use frequently.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + .... = \sum_{k=0}^{\infty} \frac{x^k}{k!}&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;sin(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} - ... = \sum_{k=0}^{\infty} (-1)^k \frac{x^{(2k+1)}}{(2k+1)!}&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;cos(x) = x - \frac{x^2}{2!} + \frac{x^4}{4!} - ... = \sum_{k=0}^{\infty} (-1)^k \frac{x^{(2k)}}{(2k)!}&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\frac{1}{1-x} = 1 + x + x^2 + x^3 + ... = \sum_{k=0}^{\infty} x^k&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;ln(1+x) = x - \frac{x^2}{2} + \frac{x^3}{3} - ... = \sum_{k=1}^{\infty} (-1)^{k-1}\frac{x^k}{k}&lt;/script&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;General close form&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;f(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!}(x-a)^n&lt;/script&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When a = 0, it’s Maclaurin series.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Yuzhou Ge (葛宇周)</name></author><category term="taylor series" /><category term="math" /><summary type="html">Taylor series is quite important no matter in math, or enginerring, here just few common taylor series expansions we will use frequently.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://gastonsanchez.com/images/blog/mathjax_logo.png" /></entry><entry><title type="html">Math408 Statistics Lecture Notes</title><link href="http://localhost:4000/notes/2018/01/12/MATH-408/" rel="alternate" type="text/html" title="Math408 Statistics Lecture Notes" /><published>2018-01-12T07:45:20-08:00</published><updated>2018-01-12T07:45:20-08:00</updated><id>http://localhost:4000/notes/2018/01/12/MATH-408</id><content type="html" xml:base="http://localhost:4000/notes/2018/01/12/MATH-408/">&lt;hr /&gt;
 
 &lt;h3 id=&quot;here-are-all-my-lecture-notes-of-math408-statistics&quot;&gt;Here are all my lecture notes of Math408 Statistics&lt;/h3&gt;
 &lt;p&gt;Update weakly. Not very clear, some typos exist. For reference only.

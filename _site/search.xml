@@ -3,7 +3,7 @@
   
     <entry>
       <title>Welcome to Yuzhou-Lab! 歡迎！></title>
-      <url>/welcome/2018/01/13/AboutMe/</url>
+      <url>/welcome/2018/01/14/AboutMe/</url>
       <content type="text">
 
 [Day-One] Jozankei Onsen 定山溪温泉
@@ -31,6 +31,48 @@ Love &amp;amp; Peace !!!
       <tags>
         
           <tag> welcome </tag>
+        
+      </tags>
+      <tags></tags>
+    </entry>
+  
+    <entry>
+      <title>Common Taylor Series Expansions></title>
+      <url>/math-reference/2018/01/14/Common-Taylor-Series/</url>
+      <content type="text">
+  Taylor series is quite important no matter in math, or enginerring, here just few common taylor series expansions we will use frequently.
+
+
+
+
+
+
+
+
+
+
+
+
+
+  General close form
+
+
+
+
+
+  When a = 0, it’s Maclaurin series.
+
+</content>
+      <categories>
+        
+          <category> math-reference </category>
+        
+      </categories>
+      <tags>
+        
+          <tag> taylor series </tag>
+        
+          <tag> math </tag>
         
       </tags>
       <tags></tags>
