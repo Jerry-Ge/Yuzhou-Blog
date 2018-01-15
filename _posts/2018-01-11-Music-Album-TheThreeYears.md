@@ -12,7 +12,8 @@ tags:
 - Student
 
 description: Produced by Yuzhou-Media in 2015. All songs sung by classmates from Nantong No.1 High School, Jiangsu, China.
-  
+
+comments: true
 ---
 
 <!-- more -->

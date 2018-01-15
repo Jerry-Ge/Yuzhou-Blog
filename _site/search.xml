@@ -79,6 +79,69 @@ Love &amp;amp; Peace !!!
     </entry>
   
     <entry>
+      <title>Central Limit Theorem [CLT] in Few Words></title>
+      <url>/math-reference/2018/01/14/CLT/</url>
+      <content type="text">
+  Let’s first clarify one thing:
+
+
+The sample mean \( \bar{x} = x_1 + x_2 + x_3 + … + x_n = \sum_{i=1}^{i=n}x_i \) is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable!!!
+
+This could confuse a lot of students for the first time.
+
+
+  Then by Central Limit Theorem(CLT), we have the following conclusion.
+
+
+As \(n \rightarrow \infty \): 
+
+
+
+In plain english: the sample mean \(\bar{x} \) (itself a random variable) has normal distribution with expected value(mean of \(\bar{x} \)) \(\mu \) (same as population mean) and variance \(\frac{\sigma^2}{n} \).
+
+
+  We can also standardize the distribution of \(\bar{x} \) by minus the mean and divide standard deviation.
+
+
+
+
+we can also move the \(\sqrt{n} \) to the top to make it looks clear:
+
+
+
+
+  Comment:
+
+
+I believe that’s all you need to know for an undergraduate class if you don’t need to proof the CLT. But welcome to read the proof and search some video online to gain a deeper conceptual understanding about this theorem.
+
+
+More
+
+For more questions or any cooperations, please contact me at yuzhou@yuzhoulab.com!
+
+
+
+Love &amp;amp; Peace !!!
+</content>
+      <categories>
+        
+          <category> math-reference </category>
+        
+      </categories>
+      <tags>
+        
+          <tag> CLT </tag>
+        
+          <tag> math </tag>
+        
+          <tag> central limit theorem </tag>
+        
+      </tags>
+      <tags></tags>
+    </entry>
+  
+    <entry>
       <title>Math408 Statistics Lecture Notes></title>
       <url>/notes/2018/01/12/MATH-408/</url>
       <content type="text">

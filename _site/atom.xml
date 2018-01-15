@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-14T10:26:19-08:00</updated><id>http://localhost:4000/</id><title type="html">YUZHOU-LAB</title><subtitle>University of Southern California</subtitle><author><name>Yuzhou Ge (葛宇周)</name></author><entry><title type="html">Welcome to Yuzhou-Lab! 歡迎！</title><link href="http://localhost:4000/welcome/2018/01/14/AboutMe/" rel="alternate" type="text/html" title="Welcome to Yuzhou-Lab! 歡迎！" /><published>2018-01-14T00:45:22-08:00</published><updated>2018-01-14T00:45:22-08:00</updated><id>http://localhost:4000/welcome/2018/01/14/AboutMe</id><content type="html" xml:base="http://localhost:4000/welcome/2018/01/14/AboutMe/">&lt;!-- more --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-14T16:35:04-08:00</updated><id>http://localhost:4000/</id><title type="html">YUZHOU-LAB</title><subtitle>University of Southern California</subtitle><author><name>Yuzhou Ge (葛宇周)</name></author><entry><title type="html">Welcome to Yuzhou-Lab! 歡迎！</title><link href="http://localhost:4000/welcome/2018/01/14/AboutMe/" rel="alternate" type="text/html" title="Welcome to Yuzhou-Lab! 歡迎！" /><published>2018-01-14T00:45:22-08:00</published><updated>2018-01-14T00:45:22-08:00</updated><id>http://localhost:4000/welcome/2018/01/14/AboutMe</id><content type="html" xml:base="http://localhost:4000/welcome/2018/01/14/AboutMe/">&lt;!-- more --&gt;
 
 &lt;h3 id=&quot;day-one-jozankei-onsen-定山溪温泉&quot;&gt;[Day-One] Jozankei Onsen 定山溪温泉&lt;/h3&gt;
 &lt;p&gt;&lt;br /&gt;
@@ -37,7 +37,48 @@ please contact me at yuzhou@yuzhoulab.com!&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;When a = 0, it’s Maclaurin series.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Yuzhou Ge (葛宇周)</name></author><category term="taylor series" /><category term="math" /><summary type="html">Taylor series is quite important no matter in math, or enginerring, here just few common taylor series expansions we will use frequently.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://gastonsanchez.com/images/blog/mathjax_logo.png" /></entry><entry><title type="html">Math408 Statistics Lecture Notes</title><link href="http://localhost:4000/notes/2018/01/12/MATH-408/" rel="alternate" type="text/html" title="Math408 Statistics Lecture Notes" /><published>2018-01-12T07:45:20-08:00</published><updated>2018-01-12T07:45:20-08:00</updated><id>http://localhost:4000/notes/2018/01/12/MATH-408</id><content type="html" xml:base="http://localhost:4000/notes/2018/01/12/MATH-408/">&lt;hr /&gt;
+&lt;/blockquote&gt;</content><author><name>Yuzhou Ge (葛宇周)</name></author><category term="taylor series" /><category term="math" /><summary type="html">Taylor series is quite important no matter in math, or enginerring, here just few common taylor series expansions we will use frequently.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://gastonsanchez.com/images/blog/mathjax_logo.png" /></entry><entry><title type="html">Central Limit Theorem [CLT] in Few Words</title><link href="http://localhost:4000/math-reference/2018/01/14/CLT/" rel="alternate" type="text/html" title="Central Limit Theorem [CLT] in Few Words" /><published>2018-01-14T00:45:20-08:00</published><updated>2018-01-14T00:45:20-08:00</updated><id>http://localhost:4000/math-reference/2018/01/14/CLT</id><content type="html" xml:base="http://localhost:4000/math-reference/2018/01/14/CLT/">&lt;blockquote&gt;
+  &lt;p&gt;Let’s first clarify one thing:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The sample mean \( \bar{x} = x_1 + x_2 + x_3 + … + x_n = \sum_{i=1}^{i=n}x_i \) is itself a random variable, &lt;strong&gt;is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable!!!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This could confuse a lot of students for the first time.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Then by Central Limit Theorem(CLT), we have the following conclusion.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As \(n \rightarrow \infty \): &lt;br /&gt;&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\bar{x} \tilde{} N(\mu, \frac{\sigma^2}{n})&lt;/script&gt;
+
+&lt;p&gt;In plain english: the sample mean \(\bar{x} \) (itself a random variable) has normal distribution with expected value(mean of \(\bar{x} \)) \(\mu \) (same as population mean) and variance \(\frac{\sigma^2}{n} \).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We can also standardize the distribution of \(\bar{x} \) by minus the mean and divide &lt;strong&gt;standard deviation&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\frac{\bar{x} - \mu}{\frac{\sigma}{\sqrt{n}}} \tilde{} N(0, 1)&lt;/script&gt;
+
+&lt;p&gt;we can also move the \(\sqrt{n} \) to the top to make it looks clear:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\sqrt{n} \frac{\bar{x} - \mu}{\sigma} \tilde{} N(0, 1)&lt;/script&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Comment:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I believe that’s all you need to know for an undergraduate class if you don’t need to proof the CLT. But welcome to read the proof and search some video online to gain a deeper conceptual understanding about this theorem.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;more&quot;&gt;More&lt;/h3&gt;
+
+&lt;p&gt;For more questions or any cooperations, please contact me at yuzhou@yuzhoulab.com!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;love--peace-&quot;&gt;Love &amp;amp; Peace !!!&lt;/h3&gt;</content><author><name>Yuzhou Ge (葛宇周)</name></author><category term="CLT" /><category term="math" /><category term="central limit theorem" /><summary type="html">Let’s first clarify one thing:</summary></entry><entry><title type="html">Math408 Statistics Lecture Notes</title><link href="http://localhost:4000/notes/2018/01/12/MATH-408/" rel="alternate" type="text/html" title="Math408 Statistics Lecture Notes" /><published>2018-01-12T07:45:20-08:00</published><updated>2018-01-12T07:45:20-08:00</updated><id>http://localhost:4000/notes/2018/01/12/MATH-408</id><content type="html" xml:base="http://localhost:4000/notes/2018/01/12/MATH-408/">&lt;hr /&gt;
 
 &lt;h3 id=&quot;here-are-all-my-lecture-notes-of-math408-statistics&quot;&gt;Here are all my lecture notes of Math408 Statistics&lt;/h3&gt;
 &lt;p&gt;Update weakly. Not very clear, some typos exist. For reference only.
