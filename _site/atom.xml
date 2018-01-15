@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-14T16:58:05-08:00</updated><id>http://localhost:4000/</id><title type="html">YUZHOU-LAB</title><subtitle>University of Southern California</subtitle><author><name>Yuzhou Ge (葛宇周)</name></author><entry><title type="html">Welcome to Yuzhou-Lab! 歡迎！</title><link href="http://localhost:4000/welcome/2018/01/14/AboutMe/" rel="alternate" type="text/html" title="Welcome to Yuzhou-Lab! 歡迎！" /><published>2018-01-14T00:45:22-08:00</published><updated>2018-01-14T00:45:22-08:00</updated><id>http://localhost:4000/welcome/2018/01/14/AboutMe</id><content type="html" xml:base="http://localhost:4000/welcome/2018/01/14/AboutMe/">&lt;!-- more --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-15T12:38:37-08:00</updated><id>http://localhost:4000/</id><title type="html">YUZHOU-LAB</title><subtitle>University of Southern California</subtitle><author><name>Yuzhou Ge (葛宇周)</name></author><entry><title type="html">Welcome to Yuzhou-Lab! 歡迎！</title><link href="http://localhost:4000/welcome/2018/01/14/AboutMe/" rel="alternate" type="text/html" title="Welcome to Yuzhou-Lab! 歡迎！" /><published>2018-01-14T00:45:22-08:00</published><updated>2018-01-14T00:45:22-08:00</updated><id>http://localhost:4000/welcome/2018/01/14/AboutMe</id><content type="html" xml:base="http://localhost:4000/welcome/2018/01/14/AboutMe/">&lt;!-- more --&gt;
 
 &lt;h3 id=&quot;day-one-jozankei-onsen-定山溪温泉&quot;&gt;[Day-One] Jozankei Onsen 定山溪温泉&lt;/h3&gt;
 &lt;p&gt;&lt;br /&gt;
@@ -15,11 +15,7 @@ A very small town near Sapporo. It takes about an hour to get here from Chitose 
 please contact me at yuzhou@yuzhoulab.com!&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;h3 id=&quot;love--peace-&quot;&gt;Love &amp;amp; Peace !!!&lt;/h3&gt;</content><author><name>Yuzhou Ge (葛宇周)</name></author><category term="welcome" /><category term="welcome" /><summary type="html"></summary></entry><entry><title type="html">Common Taylor Series Expansions</title><link href="http://localhost:4000/math-reference/2018/01/14/Common-Taylor-Series/" rel="alternate" type="text/html" title="Common Taylor Series Expansions" /><published>2018-01-14T00:45:21-08:00</published><updated>2018-01-14T00:45:21-08:00</updated><id>http://localhost:4000/math-reference/2018/01/14/Common-Taylor-Series</id><content type="html" xml:base="http://localhost:4000/math-reference/2018/01/14/Common-Taylor-Series/">&lt;blockquote&gt;
-  &lt;p&gt;Taylor series is quite important no matter in math, or enginerring, here just few common taylor series expansions we will use frequently.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + .... = \sum_{k=0}^{\infty} \frac{x^k}{k!}&lt;/script&gt;
+&lt;h3 id=&quot;love--peace-&quot;&gt;Love &amp;amp; Peace !!!&lt;/h3&gt;</content><author><name>Yuzhou Ge (葛宇周)</name></author><category term="welcome" /><category term="welcome" /><summary type="html"></summary></entry><entry><title type="html">Common Taylor Series Expansions</title><link href="http://localhost:4000/math-reference/2018/01/14/Common-Taylor-Series/" rel="alternate" type="text/html" title="Common Taylor Series Expansions" /><published>2018-01-14T00:45:21-08:00</published><updated>2018-01-14T00:45:21-08:00</updated><id>http://localhost:4000/math-reference/2018/01/14/Common-Taylor-Series</id><content type="html" xml:base="http://localhost:4000/math-reference/2018/01/14/Common-Taylor-Series/">&lt;script type=&quot;math/tex; mode=display&quot;&gt;e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + .... = \sum_{k=0}^{\infty} \frac{x^k}{k!}&lt;/script&gt;
 
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;sin(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} - ... = \sum_{k=0}^{\infty} (-1)^k \frac{x^{(2k+1)}}{(2k+1)!}&lt;/script&gt;
 
@@ -37,7 +33,7 @@ please contact me at yuzhou@yuzhoulab.com!&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;When a = 0, it’s Maclaurin series.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Yuzhou Ge (葛宇周)</name></author><category term="taylor series" /><category term="math" /><summary type="html">Taylor series is quite important no matter in math, or enginerring, here just few common taylor series expansions we will use frequently.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://gastonsanchez.com/images/blog/mathjax_logo.png" /></entry><entry><title type="html">Central Limit Theorem [CLT] in Few Words</title><link href="http://localhost:4000/math-reference/2018/01/14/CLT/" rel="alternate" type="text/html" title="Central Limit Theorem [CLT] in Few Words" /><published>2018-01-14T00:45:20-08:00</published><updated>2018-01-14T00:45:20-08:00</updated><id>http://localhost:4000/math-reference/2018/01/14/CLT</id><content type="html" xml:base="http://localhost:4000/math-reference/2018/01/14/CLT/">&lt;blockquote&gt;
+&lt;/blockquote&gt;</content><author><name>Yuzhou Ge (葛宇周)</name></author><category term="taylor series" /><category term="math" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://gastonsanchez.com/images/blog/mathjax_logo.png" /></entry><entry><title type="html">Central Limit Theorem [CLT] in Few Words</title><link href="http://localhost:4000/math-reference/2018/01/14/CLT/" rel="alternate" type="text/html" title="Central Limit Theorem [CLT] in Few Words" /><published>2018-01-14T00:45:20-08:00</published><updated>2018-01-14T00:45:20-08:00</updated><id>http://localhost:4000/math-reference/2018/01/14/CLT</id><content type="html" xml:base="http://localhost:4000/math-reference/2018/01/14/CLT/">&lt;blockquote&gt;
   &lt;p&gt;Let’s first clarify one thing:&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -65,11 +61,23 @@ please contact me at yuzhou@yuzhoulab.com!&lt;/p&gt;
 
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;\sqrt{n} \frac{\bar{x} - \mu}{\sigma} \tilde{} N(0, 1)&lt;/script&gt;
 
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;For the sample sum, we have&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As \(n \rightarrow \infty \): &lt;br /&gt;&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\bar{S} (sample \  sum) \tilde{} N(n \cdot \mu, n \cdot \sigma^2 )&lt;/script&gt;
+
+&lt;hr /&gt;
+
 &lt;blockquote&gt;
   &lt;p&gt;Comment:&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;I believe that’s all you need to know for an undergraduate class if you don’t need to proof the CLT. But welcome to read the proof and search some video online to gain a deeper conceptual understanding about this theorem.&lt;/p&gt;
+&lt;p&gt;I believe that’s all you need to know for an undergraduate class if you don’t need to prove the CLT. But welcome to read the proof and search some video online to obtain a deeper conceptual understanding about this theorem.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h3 id=&quot;more&quot;&gt;More&lt;/h3&gt;

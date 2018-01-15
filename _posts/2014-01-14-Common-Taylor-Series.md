@@ -5,9 +5,9 @@ date: 2018-01-14 08:45:21
 categories: math-reference
 tags: [taylor series, math]
 image: http://gastonsanchez.com/images/blog/mathjax_logo.png
+description: Taylor series is quite important no matter in math, or enginerring, here just few common taylor series expansions we will use frequently.
 ---
 
-> Taylor series is quite important no matter in math, or enginerring, here just few common taylor series expansions we will use frequently.
 
 $$e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + .... = \sum_{k=0}^{\infty} \frac{x^k}{k!}$$
 

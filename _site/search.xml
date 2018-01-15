@@ -40,10 +40,6 @@ Love &amp;amp; Peace !!!
       <title>Common Taylor Series Expansions></title>
       <url>/math-reference/2018/01/14/Common-Taylor-Series/</url>
       <content type="text">
-  Taylor series is quite important no matter in math, or enginerring, here just few common taylor series expansions we will use frequently.
-
-
-
 
 
 
@@ -110,10 +106,22 @@ we can also move the \(\sqrt{n} \) to the top to make it looks clear:
 
 
 
+
+
+  For the sample sum, we have
+
+
+As \(n \rightarrow \infty \): 
+
+
+
+
+
+
   Comment:
 
 
-I believe that’s all you need to know for an undergraduate class if you don’t need to proof the CLT. But welcome to read the proof and search some video online to gain a deeper conceptual understanding about this theorem.
+I believe that’s all you need to know for an undergraduate class if you don’t need to prove the CLT. But welcome to read the proof and search some video online to obtain a deeper conceptual understanding about this theorem.
 
 
 More
