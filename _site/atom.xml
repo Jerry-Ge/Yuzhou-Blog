@@ -1,18 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-15T12:38:37-08:00</updated><id>http://localhost:4000/</id><title type="html">YUZHOU-LAB</title><subtitle>University of Southern California</subtitle><author><name>Yuzhou Ge (葛宇周)</name></author><entry><title type="html">Welcome to Yuzhou-Lab! 歡迎！</title><link href="http://localhost:4000/welcome/2018/01/14/AboutMe/" rel="alternate" type="text/html" title="Welcome to Yuzhou-Lab! 歡迎！" /><published>2018-01-14T00:45:22-08:00</published><updated>2018-01-14T00:45:22-08:00</updated><id>http://localhost:4000/welcome/2018/01/14/AboutMe</id><content type="html" xml:base="http://localhost:4000/welcome/2018/01/14/AboutMe/">&lt;!-- more --&gt;
-
-&lt;h3 id=&quot;day-one-jozankei-onsen-定山溪温泉&quot;&gt;[Day-One] Jozankei Onsen 定山溪温泉&lt;/h3&gt;
-&lt;p&gt;&lt;br /&gt;
-A very small town near Sapporo. It takes about an hour to get here from Chitose Airport by bus. Quiet and Beautiful.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/hokkaido/定山溪-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/hokkaido/定山溪-12.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-16T22:01:43-08:00</updated><id>http://localhost:4000/</id><title type="html">YUZHOU-LAB</title><subtitle>University of Southern California</subtitle><author><name>Yuzhou Ge (葛宇周)</name></author><entry><title type="html">Welcome to Yuzhou-Lab! 歡迎！</title><link href="http://localhost:4000/welcome/2018/01/14/AboutMe/" rel="alternate" type="text/html" title="Welcome to Yuzhou-Lab! 歡迎！" /><published>2018-01-14T00:45:22-08:00</published><updated>2018-01-14T00:45:22-08:00</updated><id>http://localhost:4000/welcome/2018/01/14/AboutMe</id><content type="html" xml:base="http://localhost:4000/welcome/2018/01/14/AboutMe/">&lt;!-- more --&gt;
 
 &lt;hr /&gt;
-&lt;h3 id=&quot;more-更多&quot;&gt;More 更多&lt;/h3&gt;
 
-&lt;p&gt;For detailed trip plan or any kind of questions,
-please contact me at yuzhou@yuzhoulab.com!&lt;/p&gt;
+&lt;p&gt;What’s up yo! Welcome to Yuzhou-Lab! My name is Yuzhou Ge, currently an undergraduate student from University of Southern California, studying both Applied Mathmatics and Computer Science!! But, but, but, in stead of writing softwares and boring math proofs, I am a big fan of doing film making, audio recording/editing, etc. Besides that, I do really enjoy playing tennis, marathon, swimming. Welcome to invite me to play with you! In this website(Yuzhou-Lab), I will post everything that I think it’s interesting and useful, such as self-made videos, photography works, my poor Chinese Caligraphy works :( and Math/Computer Science Notes!(Excited?)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;some-words-i-found-out-very-interesting-recently&quot;&gt;Some words I found out very interesting recently:&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Do everthing in moderation – including moderation” – Robert J. Sacker (My Math-445 Professor)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/profile_square.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Yuzhou Ge, January 2018&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h3 id=&quot;love--peace-&quot;&gt;Love &amp;amp; Peace !!!&lt;/h3&gt;</content><author><name>Yuzhou Ge (葛宇周)</name></author><category term="welcome" /><category term="welcome" /><summary type="html"></summary></entry><entry><title type="html">Common Taylor Series Expansions</title><link href="http://localhost:4000/math-reference/2018/01/14/Common-Taylor-Series/" rel="alternate" type="text/html" title="Common Taylor Series Expansions" /><published>2018-01-14T00:45:21-08:00</published><updated>2018-01-14T00:45:21-08:00</updated><id>http://localhost:4000/math-reference/2018/01/14/Common-Taylor-Series</id><content type="html" xml:base="http://localhost:4000/math-reference/2018/01/14/Common-Taylor-Series/">&lt;script type=&quot;math/tex; mode=display&quot;&gt;e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + .... = \sum_{k=0}^{\infty} \frac{x^k}{k!}&lt;/script&gt;

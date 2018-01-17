@@ -1,42 +1,37 @@
 ---
-type: Welcome!
-title: About ME!
-date: 2999-12-12 15:45:20
-category: travel
+type: Welcome! 歡迎！
+title: Welcome to Yuzhou-Lab! 歡迎！ 
+date: 2018-01-14 08:45:22
+category: welcome
 photos:
-- /assets/images/hokkaido/otaru-34.jpg
+- /assets/images/welcome.jpg
 
 tags:
-- Hokkaido
-- Japan
-- Travel
-- Hoshino
-- Otaru
-- Jozankei Onsen
-description: Winter 2017 Hokkaido, Japan Trip
----
-
-  
-
----
-
+- welcome
+description: Welcome to Yuzhou-Lab, click "Read more" below or "About" above to learn more about me!
 
 ---
 <!-- more -->
 
-### [Day-One] Jozankei Onsen 定山溪温泉
-<br>
-A very small town near Sapporo. It takes about an hour to get here from Chitose Airport by bus. Quiet and Beautiful.
+---
 
-![](/assets/images/hokkaido/定山溪-1.jpg)
-
-![](/assets/images/hokkaido/定山溪-12.jpg)
+What's up yo! Welcome to Yuzhou-Lab! My name is Yuzhou Ge, currently an undergraduate student from University of Southern California, studying both Applied Mathmatics and Computer Science!! But, but, but, in stead of writing softwares and boring math proofs, I am a big fan of doing film making, audio recording/editing, etc. Besides that, I do really enjoy playing tennis, marathon, swimming. Welcome to invite me to play with you! In this website(Yuzhou-Lab), I will post everything that I think it's interesting and useful, such as self-made videos, photography works, my poor Chinese Caligraphy works :( and Math/Computer Science Notes!(Excited?) 
 
 ---
-### More 更多
 
-For detailed trip plan or any kind of questions,
-please contact me at yuzhou@yuzhoulab.com! 
+<br>
+#### Some words I found out very interesting recently: 
+<br>
+> "Do everthing in moderation -- including moderation" -- Robert J. Sacker (My Math-445 Professor)
+
+<br>
+
+---
+
+
+![](/assets/images/profile_square.jpg)
+
+Yuzhou Ge, January 2018
 
 ---
 ### Love & Peace !!!
