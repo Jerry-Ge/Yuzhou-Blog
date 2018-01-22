@@ -3,7 +3,7 @@
   
     <entry>
       <title>Welcome to Yuzhou-Lab! 歡迎！></title>
-      <url>/welcome/2018/01/14/AboutMe/</url>
+      <url>/welcome/2018/01/22/AboutMe/</url>
       <content type="text">
 
 
@@ -38,6 +38,64 @@ Love &amp;amp; Peace !!!
       <tags>
         
           <tag> welcome </tag>
+        
+      </tags>
+      <tags></tags>
+    </entry>
+  
+    <entry>
+      <title>Chebyshev's Inequality></title>
+      <url>/math-reference/2018/01/22/Chebyshev-Inequality-copy/</url>
+      <content type="text">
+  Let’s first give you a general idea about Chybyshev’s Inequality:
+
+
+Chebyshev’s Inequality guarantess that , for a wide class of probability distributions(that’s why so important), no more than certain fraction of values can be more than a certain distance from the mean. (Or we can state that in the opposite way: at least # of distributions are within certain range).
+
+
+  In mathematical language, we write it like this
+
+
+Let \(\mu = E[X], \sigma^2 = VAR[X] \).
+For each \(\epsilon \) &amp;gt; 0
+
+
+
+
+  Corollary One:
+Let \(k \geq 1 \) be an integer, then
+
+
+
+
+
+  Corollary Two:
+Let \(k \geq 1 \) be an integer, then
+
+
+
+
+
+More
+
+For more questions or any cooperations, please contact me at yuzhou@yuzhoulab.com!
+
+
+
+Love &amp;amp; Peace !!!
+</content>
+      <categories>
+        
+          <category> math-reference </category>
+        
+      </categories>
+      <tags>
+        
+          <tag> CLT </tag>
+        
+          <tag> math </tag>
+        
+          <tag> Cheybyshev Inequality </tag>
         
       </tags>
       <tags></tags>
