@@ -15,3 +15,9 @@ Here are my in-class practices in Chinese caligraphy class (EALC102).
 ![Caption](/assets/caligraphy/01-08-2018-firstday.jpg)
 
 
+## Class Two: Dew
+> Date: 01/22/2018 
+
+![Caption](/assets/caligraphy/01-08-2018-second-class.jpg)
+
+
