@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-23T13:30:43-08:00</updated><id>http://localhost:4000/</id><title type="html">YUZHOU-LAB</title><subtitle>University of Southern California</subtitle><author><name>Yuzhou Ge (葛宇周)</name></author><entry><title type="html">Welcome to Yuzhou-Lab! 歡迎！</title><link href="http://localhost:4000/welcome/2018/01/22/AboutMe/" rel="alternate" type="text/html" title="Welcome to Yuzhou-Lab! 歡迎！" /><published>2018-01-22T00:45:23-08:00</published><updated>2018-01-22T00:45:23-08:00</updated><id>http://localhost:4000/welcome/2018/01/22/AboutMe</id><content type="html" xml:base="http://localhost:4000/welcome/2018/01/22/AboutMe/">&lt;!-- more --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-26T19:43:11-08:00</updated><id>http://localhost:4000/</id><title type="html">YUZHOU-LAB</title><subtitle>University of Southern California</subtitle><author><name>Yuzhou Ge (葛宇周)</name></author><entry><title type="html">Welcome to Yuzhou-Lab! 歡迎！</title><link href="http://localhost:4000/welcome/2018/01/22/AboutMe/" rel="alternate" type="text/html" title="Welcome to Yuzhou-Lab! 歡迎！" /><published>2018-01-22T00:45:23-08:00</published><updated>2018-01-22T00:45:23-08:00</updated><id>http://localhost:4000/welcome/2018/01/22/AboutMe</id><content type="html" xml:base="http://localhost:4000/welcome/2018/01/22/AboutMe/">&lt;!-- more --&gt;
 
 &lt;hr /&gt;
 
@@ -192,6 +192,35 @@ I will organize detailed concepts in clear pdf from another post.
 &lt;p&gt;&lt;img src=&quot;/assets/images/math408/week_2/5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/math408/week_2/6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;week-three&quot;&gt;Week Three&lt;/h3&gt;
+
+&lt;h3 id=&quot;class-six-confidence-interval&quot;&gt;Class Six: Confidence Interval&lt;/h3&gt;
+&lt;p&gt;Wednesday 01/22/2018
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/math408/week_3/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/math408/week_3/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;class-seven-large-sample-confidence-interval-and-choosing-sample-size&quot;&gt;Class Seven: Large Sample Confidence Interval and Choosing Sample Size&lt;/h3&gt;
+&lt;p&gt;Friday 01/24/2018
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/math408/week_3/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/math408/week_3/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/math408/week_3/5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;class-eight-normal-samplesmall-sample-size-chi-squared-distribution&quot;&gt;Class Eight: Normal Sample(small sample size, Chi-Squared Distribution)&lt;/h3&gt;
+&lt;p&gt;Friday 01/26/2018
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/math408/week_3/6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/math408/week_3/7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h3 id=&quot;more-更多&quot;&gt;More 更多&lt;/h3&gt;
