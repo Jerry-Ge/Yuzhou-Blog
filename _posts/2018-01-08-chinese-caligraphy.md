@@ -21,3 +21,7 @@ Here are my in-class practices in Chinese caligraphy class (EALC102).
 ![Caption](/assets/caligraphy/01-08-2018-second-class.jpg)
 
 
+## Class Three: Dots
+> Date: 01/29/2018 
+
+![Caption](/assets/caligraphy/01-29-2018-third-class.jpg)
