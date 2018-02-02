@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-29T18:14:44-08:00</updated><id>http://localhost:4000/</id><title type="html">YUZHOU-LAB</title><subtitle>University of Southern California</subtitle><author><name>Yuzhou Ge (葛宇周)</name></author><entry><title type="html">Welcome to Yuzhou-Lab! 歡迎！</title><link href="http://localhost:4000/welcome/2018/01/22/AboutMe/" rel="alternate" type="text/html" title="Welcome to Yuzhou-Lab! 歡迎！" /><published>2018-01-22T00:45:23-08:00</published><updated>2018-01-22T00:45:23-08:00</updated><id>http://localhost:4000/welcome/2018/01/22/AboutMe</id><content type="html" xml:base="http://localhost:4000/welcome/2018/01/22/AboutMe/">&lt;!-- more --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-01T22:47:46-08:00</updated><id>http://localhost:4000/</id><title type="html">YUZHOU-LAB</title><subtitle>University of Southern California</subtitle><author><name>Yuzhou Ge (葛宇周)</name></author><entry><title type="html">Welcome to Yuzhou-Lab! 歡迎！</title><link href="http://localhost:4000/welcome/2018/02/01/AboutMe/" rel="alternate" type="text/html" title="Welcome to Yuzhou-Lab! 歡迎！" /><published>2018-02-01T00:45:23-08:00</published><updated>2018-02-01T00:45:23-08:00</updated><id>http://localhost:4000/welcome/2018/02/01/AboutMe</id><content type="html" xml:base="http://localhost:4000/welcome/2018/02/01/AboutMe/">&lt;!-- more --&gt;
 
 &lt;hr /&gt;
 
@@ -22,7 +22,33 @@
 &lt;p&gt;Yuzhou Ge, January 2018&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;h3 id=&quot;love--peace-&quot;&gt;Love &amp;amp; Peace !!!&lt;/h3&gt;</content><author><name>Yuzhou Ge (葛宇周)</name></author><category term="welcome" /><category term="welcome" /><summary type="html"></summary></entry><entry><title type="html">Chebyshev’s Inequality</title><link href="http://localhost:4000/math-reference/2018/01/22/Chebyshev-Inequality-copy/" rel="alternate" type="text/html" title="Chebyshev's Inequality" /><published>2018-01-22T00:45:20-08:00</published><updated>2018-01-22T00:45:20-08:00</updated><id>http://localhost:4000/math-reference/2018/01/22/Chebyshev-Inequality%20copy</id><content type="html" xml:base="http://localhost:4000/math-reference/2018/01/22/Chebyshev-Inequality-copy/">&lt;blockquote&gt;
+&lt;h3 id=&quot;love--peace-&quot;&gt;Love &amp;amp; Peace !!!&lt;/h3&gt;</content><author><name>Yuzhou Ge (葛宇周)</name></author><category term="welcome" /><category term="welcome" /><summary type="html"></summary></entry><entry><title type="html">The Three Const Keywords in C++</title><link href="http://localhost:4000/c++/reference/2018/02/01/Three-Consts/" rel="alternate" type="text/html" title="The Three Const Keywords in C++" /><published>2018-02-01T00:45:20-08:00</published><updated>2018-02-01T00:45:20-08:00</updated><id>http://localhost:4000/c++/reference/2018/02/01/Three-Consts</id><content type="html" xml:base="http://localhost:4000/c++/reference/2018/02/01/Three-Consts/">&lt;blockquote&gt;
+  &lt;p&gt;Consider the following block of code&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;template&amp;lt;class K, class V&amp;gt;
+V const&amp;amp; Map&amp;lt;K,V&amp;gt;::get(const K&amp;amp; key) const
+{...}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;the-first-const-means&quot;&gt;The first const means:&lt;/h3&gt;
+&lt;p&gt;You can not modify the returned value V&lt;/p&gt;
+
+&lt;h3 id=&quot;the-second-const-means&quot;&gt;The second const means:&lt;/h3&gt;
+&lt;p&gt;You can not modify the input argument key&lt;/p&gt;
+
+&lt;h2 id=&quot;the-third-const-means&quot;&gt;The third const means:&lt;/h2&gt;
+&lt;p&gt;This member function “get” never modifies data members in an objectss
+s
+—&lt;/p&gt;
+&lt;h3 id=&quot;more&quot;&gt;More&lt;/h3&gt;
+
+&lt;p&gt;For more questions or any cooperations, please contact me at yuzhou@yuzhoulab.com!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;love--peace-&quot;&gt;Love &amp;amp; Peace !!!&lt;/h3&gt;</content><author><name>Yuzhou Ge (葛宇周)</name></author><category term="C++" /><category term="keywords" /><category term="Const" /><summary type="html">Consider the following block of code</summary></entry><entry><title type="html">Chebyshev’s Inequality</title><link href="http://localhost:4000/math-reference/2018/01/22/Chebyshev-Inequality-copy/" rel="alternate" type="text/html" title="Chebyshev's Inequality" /><published>2018-01-22T00:45:20-08:00</published><updated>2018-01-22T00:45:20-08:00</updated><id>http://localhost:4000/math-reference/2018/01/22/Chebyshev-Inequality%20copy</id><content type="html" xml:base="http://localhost:4000/math-reference/2018/01/22/Chebyshev-Inequality-copy/">&lt;blockquote&gt;
   &lt;p&gt;Let’s first give you a general idea about Chybyshev’s Inequality:&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -338,68 +364,4 @@ Derek Pengkai Hong 洪鹏开
   &lt;p&gt;Date: 01/29/2018&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/caligraphy/01-29-2018-third-class.jpg&quot; alt=&quot;Caption&quot; /&gt;&lt;/p&gt;</content><author><name>Yuzhou Ge (葛宇周)</name></author><summary type="html">Here are my in-class practices in Chinese caligraphy class (EALC102).</summary></entry><entry><title type="html">Winter 2017, Hokkaido, Japan Trip 北海道之旅</title><link href="http://localhost:4000/travel/2018/01/01/Hokkaido-Trip/" rel="alternate" type="text/html" title="Winter 2017, Hokkaido, Japan Trip 北海道之旅" /><published>2018-01-01T07:45:20-08:00</published><updated>2018-01-01T07:45:20-08:00</updated><id>http://localhost:4000/travel/2018/01/01/Hokkaido-Trip</id><content type="html" xml:base="http://localhost:4000/travel/2018/01/01/Hokkaido-Trip/">&lt;hr /&gt;
-
-&lt;h3 id=&quot;itinerary-行程&quot;&gt;[Itinerary] 行程&lt;/h3&gt;
-&lt;p&gt;LA   –&amp;gt;   Jozankei   –&amp;gt;   Otaru   –&amp;gt;   Sapporo   –&amp;gt;   Hoshino Sking Resort   –&amp;gt;   Sapporo   –&amp;gt;   Shanghai  &lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;!-- more --&gt;
-
-&lt;h3 id=&quot;day-one-jozankei-onsen-定山溪温泉&quot;&gt;[Day-One] Jozankei Onsen 定山溪温泉&lt;/h3&gt;
-&lt;p&gt;&lt;br /&gt;
-A very small town near Sapporo. It takes about an hour to get here from Chitose Airport by bus. Quiet and Beautiful.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/hokkaido/定山溪-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/hokkaido/定山溪-12.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;day-two-jozankei-onsen-定山溪温泉&quot;&gt;[Day-Two] Jozankei Onsen 定山溪温泉&lt;/h3&gt;
-&lt;p&gt;&lt;br /&gt;
-Take a walk around the town, have some ice-cream, enjoy the great Onsen(Spa) and Buffet!!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/hokkaido/IMG_1849.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;day-three-otaru-sapporo-小樽-札幌&quot;&gt;[Day-Three] Otaru, Sapporo 小樽, 札幌&lt;/h3&gt;
-&lt;p&gt;&lt;br /&gt;
-Visit the port city Otaru, take the cable car to the top of Tengu Mountain(天狗山) and enjoy the view of the whole town.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/hokkaido/IMG_1845.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/hokkaido/tengu.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Otaru Canal
-&lt;img src=&quot;/assets/images/hokkaido/otaru-34.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Factory near the canal
-&lt;img src=&quot;/assets/images/hokkaido/小樽-38.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Seashore
-&lt;img src=&quot;/assets/images/hokkaido/小樽-44.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;day-four-white-lover-factorysapporo-札幌白色戀人工廠&quot;&gt;[Day-Four] White Lover Factory，Sapporo 札幌，白色戀人工廠&lt;/h3&gt;
-&lt;p&gt;&lt;br /&gt; 
-Enjoy the delicious chocolate biscuit “white lover” and see how they are made in the factory.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/hokkaido/white.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;day-fivesix-tomamu-hoshino-resort-星野度假村&quot;&gt;[Day-Five/Six] Tomamu Hoshino Resort 星野度假村&lt;/h3&gt;
-&lt;p&gt;&lt;br /&gt; 
-Nothing else! Great view, ice village, delicious food, and snowboarding!!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/hokkaido/IMG_1823.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/hokkaido/IMG_1840.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/hokkaido/IMG_1837.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;day-seven-home-回家啦&quot;&gt;[Day-Seven] Home!! 回家啦~&lt;/h3&gt;
-
-&lt;hr /&gt;
-&lt;h3 id=&quot;more-更多&quot;&gt;More 更多&lt;/h3&gt;
-
-&lt;p&gt;For detailed trip plan or any kind of questions,
-please contact me at yuzhou@yuzhoulab.com!&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;h3 id=&quot;love--peace-&quot;&gt;Love &amp;amp; Peace !!!&lt;/h3&gt;</content><author><name>Yuzhou Ge (葛宇周)</name></author><category term="travel" /><category term="Hokkaido" /><category term="Japan" /><category term="Travel" /><category term="Hoshino" /><category term="Otaru" /><category term="Jozankei Onsen" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/assets/caligraphy/01-29-2018-third-class.jpg&quot; alt=&quot;Caption&quot; /&gt;&lt;/p&gt;</content><author><name>Yuzhou Ge (葛宇周)</name></author><summary type="html">Here are my in-class practices in Chinese caligraphy class (EALC102).</summary></entry></feed>

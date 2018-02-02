@@ -3,7 +3,7 @@
   
     <entry>
       <title>Welcome to Yuzhou-Lab! 歡迎！></title>
-      <url>/welcome/2018/01/22/AboutMe/</url>
+      <url>/welcome/2018/02/01/AboutMe/</url>
       <content type="text">
 
 
@@ -38,6 +38,56 @@ Love &amp;amp; Peace !!!
       <tags>
         
           <tag> welcome </tag>
+        
+      </tags>
+      <tags></tags>
+    </entry>
+  
+    <entry>
+      <title>The Three Const Keywords in C++></title>
+      <url>/c++/reference/2018/02/01/Three-Consts/</url>
+      <content type="text">
+  Consider the following block of code
+
+
+template&amp;lt;class K, class V&amp;gt;
+V const&amp;amp; Map&amp;lt;K,V&amp;gt;::get(const K&amp;amp; key) const
+{...}
+
+
+
+The first const means:
+You can not modify the returned value V
+
+The second const means:
+You can not modify the input argument key
+
+The third const means:
+This member function “get” never modifies data members in an objectss
+s
+—
+More
+
+For more questions or any cooperations, please contact me at yuzhou@yuzhoulab.com!
+
+
+
+Love &amp;amp; Peace !!!
+</content>
+      <categories>
+        
+          <category> c++ </category>
+        
+          <category> reference </category>
+        
+      </categories>
+      <tags>
+        
+          <tag> C++ </tag>
+        
+          <tag> keywords </tag>
+        
+          <tag> Const </tag>
         
       </tags>
       <tags></tags>

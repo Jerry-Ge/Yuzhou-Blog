@@ -87,7 +87,7 @@
 <link href="/assets/css/main.css?v=5.1.1" rel="stylesheet" type="text/css" />
 
 
-  <meta name="keywords" content="CLT,math,central limit theorem," />
+  <meta name="keywords" content="C++,keywords,Const," />
 
 
 
@@ -115,17 +115,17 @@
 
 
 
-<meta name="description" content="Here are all you need to know about central limit theorem (CLT).">
-<meta name="keywords" content="CLT, math, central limit theorem">
+<meta name="description" content="What&apos;s the use of three different const keywords in C++">
+<meta name="keywords" content="C++, keywords, Const">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Central Limit Theorem [CLT] in Few Words">
-<meta property="og:url" content="http://localhost:4000/math-reference/2018/01/14/CLT/">
+<meta property="og:title" content="The Three Const Keywords in C++">
+<meta property="og:url" content="http://localhost:4000/c++/reference/2018/02/01/Three-Consts/">
 <meta property="og:site_name" content="YUZHOU-LAB">
-<meta property="og:description" content="Here are all you need to know about central limit theorem (CLT).">
+<meta property="og:description" content="What&apos;s the use of three different const keywords in C++">
 <meta property="og:locale" content="en">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Central Limit Theorem [CLT] in Few Words">
-<meta name="twitter:description" content="Here are all you need to know about central limit theorem (CLT).">
+<meta name="twitter:title" content="The Three Const Keywords in C++">
+<meta name="twitter:description" content="What&apos;s the use of three different const keywords in C++">
 
 
 <script type="text/javascript" id="hexo.configurations">
@@ -158,7 +158,7 @@
 
 
 
-  <title>Central Limit Theorem [CLT] in Few Words</title>
+  <title>The Three Const Keywords in C++</title>
   
 
 
@@ -342,7 +342,7 @@
   
 
   <article class="post post-type- " itemscope itemtype="http://schema.org/Article">
-    <link itemprop="mainEntityOfPage" href="http://localhost:4000/math-reference/2018/01/14/CLT/">
+    <link itemprop="mainEntityOfPage" href="http://localhost:4000/c++/reference/2018/02/01/Three-Consts/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Yuzhou Ge (葛宇周)">
@@ -362,7 +362,7 @@
           <h1 class="post-title" itemprop="name headline">
           
           
-            Central Limit Theorem [CLT] in Few Words
+            The Three Const Keywords in C++
           
         </h1>
         
@@ -376,8 +376,8 @@
               
                 <span class="post-meta-item-text">Posted on</span>
               
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-01-14T00:45:20-08:00">
-                2018-01-14
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-02-01T00:45:20-08:00">
+                2018-02-01
               </time>
             
 
@@ -400,12 +400,26 @@
               
                 
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/category/#/math-reference" itemprop="url" rel="index">
-                    <span itemprop="name">math-reference</span>
+                  <a href="/category/#/c%2B%2B" itemprop="url" rel="index">
+                    <span itemprop="name">c++</span>
                   </a>
                 </span>
 
                 
+                
+                  , 
+                
+              
+                
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/category/#/reference" itemprop="url" rel="index">
+                    <span itemprop="name">reference</span>
+                  </a>
+                </span>
+
+                
+                
+                  , 
                 
               
             </span>
@@ -418,8 +432,8 @@
                 <span class="post-meta-item-icon">
                   <i class="fa fa-comment-o"></i>
                 </span>
-                <a href="/math-reference/2018/01/14/CLT/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count fb-comments-count" data-href="http://localhost:4000/math-reference/2018/01/14/CLT/" itemprop="commentCount">0</span> comments
+                <a href="/c++/reference/2018/02/01/Three-Consts/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count fb-comments-count" data-href="http://localhost:4000/c++/reference/2018/02/01/Three-Consts/" itemprop="commentCount">0</span> comments
                 </a>
               </span>
             
@@ -435,7 +449,7 @@
           
             
                 <div class="post-description">
-                    Here are all you need to know about central limit theorem (CLT).
+                    What's the use of three different const keywords in C++
                 </div>
             
           
@@ -451,52 +465,25 @@
 
       
         <blockquote>
-  <p>Let’s first clarify one thing:</p>
+  <p>Consider the following block of code</p>
 </blockquote>
 
-<p>The sample mean \( \bar{x} = x_1 + x_2 + x_3 + … + x_n = \sum_{i=1}^{i=n}x_i \) is itself a random variable, <strong>is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable, is itself a random variable!!!</strong></p>
+<div class="highlighter-rouge"><pre class="highlight"><code>template&lt;class K, class V&gt;
+V const&amp; Map&lt;K,V&gt;::get(const K&amp; key) const
+{...}
+</code></pre>
+</div>
 
-<p>This could confuse a lot of students for the first time.</p>
+<h3 id="the-first-const-means">The first const means:</h3>
+<p>You can not modify the returned value V</p>
 
-<blockquote>
-  <p>Then by Central Limit Theorem(CLT), we have the following conclusion.</p>
-</blockquote>
+<h3 id="the-second-const-means">The second const means:</h3>
+<p>You can not modify the input argument key</p>
 
-<p>As \(n \rightarrow \infty \): <br /></p>
-
-<script type="math/tex; mode=display">\bar{x} \tilde{} N(\mu, \frac{\sigma^2}{n})</script>
-
-<p>In plain english: the sample mean \(\bar{x} \) (itself a random variable) has normal distribution with expected value(mean of \(\bar{x} \)) \(\mu \) (same as population mean) and variance \(\frac{\sigma^2}{n} \).</p>
-
-<blockquote>
-  <p>We can also standardize the distribution of \(\bar{x} \) by minus the mean and divide <strong>standard deviation</strong>.</p>
-</blockquote>
-
-<script type="math/tex; mode=display">\frac{\bar{x} - \mu}{\frac{\sigma}{\sqrt{n}}} \tilde{} N(0, 1)</script>
-
-<p>we can also move the \(\sqrt{n} \) to the top to make it looks clear:</p>
-
-<script type="math/tex; mode=display">\sqrt{n} \frac{\bar{x} - \mu}{\sigma} \tilde{} N(0, 1)</script>
-
-<hr />
-
-<blockquote>
-  <p>For the sample sum, we have</p>
-</blockquote>
-
-<p>As \(n \rightarrow \infty \): <br /></p>
-
-<script type="math/tex; mode=display">\bar{S} (sample \  sum) \tilde{} N(n \cdot \mu, n \cdot \sigma^2 )</script>
-
-<hr />
-
-<blockquote>
-  <p>Comment:</p>
-</blockquote>
-
-<p>I believe that’s all you need to know for an undergraduate class if you don’t need to prove the CLT. But welcome to read the proof and search some video online to obtain a deeper conceptual understanding about this theorem.</p>
-
-<hr />
+<h2 id="the-third-const-means">The third const means:</h2>
+<p>This member function “get” never modifies data members in an objectss
+s
+—</p>
 <h3 id="more">More</h3>
 
 <p>For more questions or any cooperations, please contact me at yuzhou@yuzhoulab.com!</p>
@@ -534,13 +521,13 @@
         <div class="post-tags">
           
             
-            <a href="/tag/#/CLT" rel="tag"># CLT</a>
+            <a href="/tag/#/C%2B%2B" rel="tag"># C++</a>
           
             
-            <a href="/tag/#/math" rel="tag"># math</a>
+            <a href="/tag/#/keywords" rel="tag"># keywords</a>
           
             
-            <a href="/tag/#/central%20limit%20theorem" rel="tag"># central limit theorem</a>
+            <a href="/tag/#/Const" rel="tag"># Const</a>
           
         </div>
       
@@ -556,8 +543,8 @@
         <div class="post-nav" id="post-nav-id">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/math-reference/2018/01/14/Common-Taylor-Series/" rel="next" title="Common Taylor Series Expansions">
-                <i class="fa fa-chevron-left"></i> Common Taylor Series Expansions
+              <a href="/welcome/2018/02/01/AboutMe/" rel="next" title="Welcome to Yuzhou-Lab! 歡迎！">
+                <i class="fa fa-chevron-left"></i> Welcome to Yuzhou-Lab! 歡迎！
               </a>
             
           </div>
@@ -566,8 +553,8 @@
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/notes/2018/01/12/MATH-408/" rel="prev" title="Math408 Statistics Lecture Notes">
-                Math408 Statistics Lecture Notes <i class="fa fa-chevron-right"></i>
+              <a href="/math-reference/2018/01/22/Chebyshev-Inequality-copy/" rel="prev" title="Chebyshev's Inequality">
+                Chebyshev's Inequality <i class="fa fa-chevron-right"></i>
               </a>
             
           </div>
@@ -595,7 +582,7 @@
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
         var disqus_shortname = 'perfectlyrandom'; // required: replace example with your forum shortname
         // var disqus_developer = 1; // Comment out when the site is live
-        var disqus_identifier = "/math-reference/2018/01/14/CLT/";
+        var disqus_identifier = "/c++/reference/2018/02/01/Three-Consts/";
 
         /* * * DON'T EDIT BELOW THIS LINE * * */
         (function() {
@@ -773,7 +760,7 @@
             
               <div class="post-toc-content">
     <ol class=nav>
-      <li class="nav-item nav-level-3"> <a class="nav-link" href="#more"> <span class="nav-number">1</span> <span class="nav-text">More</span> </a> <ol class="nav-child"> <ol class="nav-child"> <ol class="nav-child"> </li></ol> </li></ol> </li></ol> </li> <li class="nav-item nav-level-3"> <a class="nav-link" href="#love--peace-"> <span class="nav-number">2</span> <span class="nav-text">Love &amp; Peace !!!</span> </a> <ol class="nav-child"> <ol class="nav-child"> <ol class="nav-child">
+      <li class="nav-item nav-level-2"> <a class="nav-link" href="#the-third-const-means"> <span class="nav-number">1</span> <span class="nav-text">The third const means:</span> </a> <ol class="nav-child"> <li class="nav-item nav-level-3"> <a class="nav-link" href="#more"> <span class="nav-number">1.1</span> <span class="nav-text">More</span> </a> <ol class="nav-child"> <ol class="nav-child"> <ol class="nav-child"> </li></ol> </li></ol> </li></ol> </li> <li class="nav-item nav-level-3"> <a class="nav-link" href="#love--peace-"> <span class="nav-number">1.2</span> <span class="nav-text">Love &amp; Peace !!!</span> </a> <ol class="nav-child"> <ol class="nav-child"> <ol class="nav-child">
     </ol>
   </div>
             
@@ -943,9 +930,9 @@
       
       <script type="text/javascript">
           var disqus_config = function () {
-              this.page.url = 'http://localhost:4000/math-reference/2018/01/14/CLT/';
-              this.page.identifier = '/math-reference/2018/01/14/CLT/';
-              this.page.title = 'Central Limit Theorem [CLT] in Few Words';
+              this.page.url = 'http://localhost:4000/c++/reference/2018/02/01/Three-Consts/';
+              this.page.identifier = '/c++/reference/2018/02/01/Three-Consts/';
+              this.page.title = 'The Three Const Keywords in C++';
           };
           var d = document, s = d.createElement('script');
           s.src = 'https://.disqus.com/embed.js';
