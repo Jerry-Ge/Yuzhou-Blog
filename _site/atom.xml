@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-01T22:47:46-08:00</updated><id>http://localhost:4000/</id><title type="html">YUZHOU-LAB</title><subtitle>University of Southern California</subtitle><author><name>Yuzhou Ge (葛宇周)</name></author><entry><title type="html">Welcome to Yuzhou-Lab! 歡迎！</title><link href="http://localhost:4000/welcome/2018/02/01/AboutMe/" rel="alternate" type="text/html" title="Welcome to Yuzhou-Lab! 歡迎！" /><published>2018-02-01T00:45:23-08:00</published><updated>2018-02-01T00:45:23-08:00</updated><id>http://localhost:4000/welcome/2018/02/01/AboutMe</id><content type="html" xml:base="http://localhost:4000/welcome/2018/02/01/AboutMe/">&lt;!-- more --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-05T15:30:17-08:00</updated><id>http://localhost:4000/</id><title type="html">YUZHOU-LAB</title><subtitle>University of Southern California</subtitle><author><name>Yuzhou Ge (葛宇周)</name></author><entry><title type="html">Welcome to Yuzhou-Lab! 歡迎！</title><link href="http://localhost:4000/welcome/2018/02/01/AboutMe/" rel="alternate" type="text/html" title="Welcome to Yuzhou-Lab! 歡迎！" /><published>2018-02-01T00:45:23-08:00</published><updated>2018-02-01T00:45:23-08:00</updated><id>http://localhost:4000/welcome/2018/02/01/AboutMe</id><content type="html" xml:base="http://localhost:4000/welcome/2018/02/01/AboutMe/">&lt;!-- more --&gt;
 
 &lt;hr /&gt;
 
@@ -223,7 +223,7 @@ I will organize detailed concepts in clear pdf from another post.
 &lt;h3 id=&quot;week-three&quot;&gt;Week Three&lt;/h3&gt;
 
 &lt;h3 id=&quot;class-six-confidence-interval&quot;&gt;Class Six: Confidence Interval&lt;/h3&gt;
-&lt;p&gt;Wednesday 01/22/2018
+&lt;p&gt;Monday 01/22/2018
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/math408/week_3/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -231,7 +231,7 @@ I will organize detailed concepts in clear pdf from another post.
 &lt;p&gt;&lt;img src=&quot;/assets/images/math408/week_3/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;class-seven-large-sample-confidence-interval-and-choosing-sample-size&quot;&gt;Class Seven: Large Sample Confidence Interval and Choosing Sample Size&lt;/h3&gt;
-&lt;p&gt;Friday 01/24/2018
+&lt;p&gt;Wednesday 01/24/2018
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/math408/week_3/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -247,6 +247,37 @@ I will organize detailed concepts in clear pdf from another post.
 &lt;p&gt;&lt;img src=&quot;/assets/images/math408/week_3/6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/math408/week_3/7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;week-four&quot;&gt;Week Four&lt;/h3&gt;
+
+&lt;h3 id=&quot;class-nine-small-sample-ci&quot;&gt;Class Nine: Small Sample CI&lt;/h3&gt;
+&lt;p&gt;Monday 01/29/2018
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/math408/week_4/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/math408/week_4/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;class-ten-ci-for-difference-of-rvs-estimation-methods-and-property-of-estimators&quot;&gt;Class Ten: CI for difference of R.Vs, Estimation methods and Property of estimators&lt;/h3&gt;
+&lt;p&gt;Wednesday 01/31/2018
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/math408/week_4/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/math408/week_4/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/math408/week_4/5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;class-eleven-consistency-methods-of-moments-estimatorsmme&quot;&gt;Class Eleven: Consistency, Methods of moments estimators[MME]&lt;/h3&gt;
+&lt;p&gt;Friday 02/02/2018
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/math408/week_4/6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/math408/week_4/7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/math408/week_4/8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h3 id=&quot;more-更多&quot;&gt;More 更多&lt;/h3&gt;
@@ -364,4 +395,11 @@ Derek Pengkai Hong 洪鹏开
   &lt;p&gt;Date: 01/29/2018&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/caligraphy/01-29-2018-third-class.jpg&quot; alt=&quot;Caption&quot; /&gt;&lt;/p&gt;</content><author><name>Yuzhou Ge (葛宇周)</name></author><summary type="html">Here are my in-class practices in Chinese caligraphy class (EALC102).</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/assets/caligraphy/01-29-2018-third-class.jpg&quot; alt=&quot;Caption&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;class-four-more-dots&quot;&gt;Class Four: More Dots~&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Date: 02/05/2018&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/caligraphy/02-05-2018-FouthClass.jpg&quot; alt=&quot;Caption&quot; /&gt;&lt;/p&gt;</content><author><name>Yuzhou Ge (葛宇周)</name></author><summary type="html">Here are my in-class practices in Chinese caligraphy class (EALC102).</summary></entry></feed>
