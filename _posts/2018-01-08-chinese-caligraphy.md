@@ -39,9 +39,9 @@ Here are my in-class practices in Chinese caligraphy class (EALC102).
 ![Caption](/assets/caligraphy/02-12-2018-FifthClass.jpg)
 
 
-## Class Five: Strokes
-> Date: 02/12/2018 
+## Class Six: Strokes
+> Date: 03/17/2018 
 
-![Caption](03-17-2018-SixthClass.jpg))
+![Caption](/assets/caligraphy/03-17-2018-SixthClass.jpg.jpg))
 
 
