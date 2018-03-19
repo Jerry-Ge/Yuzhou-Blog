@@ -45,3 +45,7 @@ Here are my in-class practices in Chinese caligraphy class (EALC102).
 ![Caption](/assets/caligraphy/03-17-2018-SixthClass.jpg)
 
 
+## Class Seven: More Strokes
+> Date: 03/19/2018 
+
+![Caption](/assets/caligraphy/03-19-2018-SeventhClass.jpg)
