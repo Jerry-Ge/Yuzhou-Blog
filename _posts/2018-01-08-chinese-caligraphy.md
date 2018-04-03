@@ -51,7 +51,13 @@ Here are my in-class practices in Chinese caligraphy class (EALC102).
 ![Caption](/assets/caligraphy/03-19-2018-SeventhClass.jpg)
 
 
-## Class Seven: Vertical Strokes
+## Class Eight: Vertical Strokes
 > Date: 03/26/2018 
 
 ![Caption](/assets/caligraphy/03-26-2018-EighthClass.jpg)
+
+## Class Nine: Hooks
+> Date: 04/02/2018 
+
+![Caption](/assets/caligraphy/04-02-2018-NinethClass.jpg)
+![Caption](/assets/caligraphy/04-02-2018-NinethClass-2.jpg)
