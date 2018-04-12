@@ -35,7 +35,7 @@ $$ P(|X - \mu| \leq k\sigma) \geq 1 - \frac{1}{k^2}$$
 ---
 ### More
 
-For more questions or any cooperations, please contact me at yuzhou@yuzhoulab.com! 
+For more questions or any cooperations, please contact me at yuzhou@yuzhoulab.com!!
 
 ---
 
