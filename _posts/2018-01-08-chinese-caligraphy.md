@@ -38,6 +38,12 @@ Here are my in-class practices in Chinese caligraphy class (EALC102).
 
 ![Caption](/assets/caligraphy/02-12-2018-FifthClass.jpg)
 
+## Midterm: 
+> Date: 02/26/2018 
+
+![Caption](/assets/caligraphy/midterm-1.jpg)
+![Caption](/assets/caligraphy/midterm-2.jpg)
+
 
 ## Class Six: Strokes
 > Date: 03/17/2018 
@@ -61,6 +67,12 @@ Here are my in-class practices in Chinese caligraphy class (EALC102).
 
 ![Caption](/assets/caligraphy/04-02-2018-NinethClass.jpg)
 ![Caption](/assets/caligraphy/04-02-2018-NinethClass-2.jpg)
+
+## Class Ten: Break Strokes
+> Date: 04/09/2018 
+
+![Caption](/assets/caligraphy/04-09-2018-TenthClass-1.jpg)
+![Caption](/assets/caligraphy/04-09-2018-TenthClass-2.jpg)
 
 ## Last Class: Final Exam
 > Date: 04/23/2018 
