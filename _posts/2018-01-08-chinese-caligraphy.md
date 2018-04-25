@@ -61,3 +61,9 @@ Here are my in-class practices in Chinese caligraphy class (EALC102).
 
 ![Caption](/assets/caligraphy/04-02-2018-NinethClass.jpg)
 ![Caption](/assets/caligraphy/04-02-2018-NinethClass-2.jpg)
+
+## Last Class: Final Exam
+> Date: 04/23/2018 
+
+![Caption](/assets/caligraphy/04-23-2018-FN1.jpg)
+![Caption](/assets/caligraphy/04-23-2018-FN2.jpg)
