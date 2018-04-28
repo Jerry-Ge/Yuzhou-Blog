@@ -7,7 +7,7 @@ categories:
 - art
 ---
 
-Here are my in-class practices in Chinese caligraphy class (EALC102).
+Here are my in-class practices, Homeworks, and Exams in Chinese caligraphy class (EALC102).
 
 ## Class One: Basic Stroke 
 > Date: 01/08/2018 
