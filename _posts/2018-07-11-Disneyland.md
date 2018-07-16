@@ -1,6 +1,6 @@
 ---
 type: vlog
-title: 我在迪士尼吃火鸡腿【One Day in Disneyland】
+title: 【One Day in Disneyland】我在迪士尼吃火鸡腿
 date: 2018-07-11 15:45:19
 category: music
 photos:
